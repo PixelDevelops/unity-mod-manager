@@ -19,7 +19,8 @@ If you go in-game and want to toggle some mods without quitting and opening up t
 Utility Menu features:
 - Quitting game
 - Toggling mods
-- Viewing game console 
+- Viewing game console
+- Installing mods (needs game restart)
 
 ## Pre-releases
 I would not advise that you use pre-releases. They are mainly for making checkpoints in the manager, and typically, are used if I'm going somewhere and decide to still work on the project. However, if you do, please be careful, stuff could break. If you encounter an error in any version whether it is a pre-release or not, please make an Issue request on this repository. It helps me keep track of all the bugs I need to fix! :)
