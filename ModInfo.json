@@ -115,6 +115,167 @@
                 "modDependencies": [
                     "Utilla"
                 ]
+            },
+
+            "Marry Poppins": {
+                "modName": "Marry Poppins",
+                "modAuthor": "Buzz Bzzz bzz BZZZ The 18th",
+                "modVersion": "1.0.1",
+                "modGitPath": "BzzzThe18th/Marry-Poppins-PC",
+                "modInfoUrl": "https://github.com/BzzzThe18th/Marry-Poppins-PC",
+                "modDownloadUrl": "https://github.com/BzzzThe18th/Marry-Poppins-PC/releases/download/1.0.1/MarryPoppins-v1.0.1.zip",
+                "modInstallLocation": "BepInEx/plugins",
+                "modDependencies": [
+                    "Utilla"
+                ]
+            },
+
+            "Monke Bazooka": {
+                "modName": "Monke Bazooka",
+                "modAuthor": "Waulta",
+                "modVersion": "1.0.0",
+                "modGitPath": "Waulta/MonkeBazooka",
+                "modInfoUrl": "https://github.com/Waulta/MonkeBazooka",
+                "modDownloadUrl": "https://github.com/Waulta/MonkeBazooka/releases/download/1.0.0/MonkeBazooka.zip",
+                "modInstallLocation": "BepInEx/plugins",
+                "modDependencies": [
+                    "Utilla",
+                    "Computer Interface"
+                ]
+            },
+
+            "Monke Map Loader": {
+                "modName": "Monke Map Loader",
+                "modAuthor": "Vadix",
+                "modVersion": "1.1.5",
+                "modGitPath": "Vadix88/MonkeMapLoader",
+                "modInfoUrl": "https://github.com/Vadix88/MonkeMapLoader",
+                "modDownloadUrl": "https://github.com/Vadix88/MonkeMapLoader/releases/download/v1.1.5/MonkeMapLoader-1.1.5.zip",
+                "modInstallLocation": "BepInEx/plugins",
+                "modDependencies": [
+                    "Newtonsoft.JSON",
+                    "Utilla",
+                    "Computer Interface"
+                ]
+            },
+
+            "Power Arms": {
+                "modName": "PowerArms",
+                "modAuthor": "A Haunted Army",
+                "modVersion": "1.0.3",
+                "modGitPath": "AHauntedArmy/PowerArms",
+                "modInfoUrl": "https://github.com/AHauntedArmy/PowerArms",
+                "modDownloadUrl": "https://github.com/AHauntedArmy/PowerArms/releases/download/1.0.3/PowerArms-v1.0.3.zip",
+                "modInstallLocation": "BepInEx/plugins",
+                "modDependencies": [
+                    "Utilla"
+                ]
+            },
+
+            "Practice Mod": {
+                "modName": "Practice Mod",
+                "modAuthor": "Graic",
+                "modVersion": "1.1.2",
+                "modGitPath": "Graicc/PracticeMod",
+                "modInfoUrl": "https://github.com/Graicc/PracticeMod",
+                "modDownloadUrl": "https://github.com/Graicc/PracticeMod/releases/download/v1.1.2/PracticeMod-v1.1.2.zip",
+                "modInstallLocation": "BepInEx/plugins",
+                "modDependencies": [
+                    "Utilla",
+                    "Computer Interface"
+                ]
+            },
+
+            "Rising Lava": {
+                "modName": "Rising Lava",
+                "modAuthor": "BoopetyDoopety",
+                "modVersion": "1.0.2",
+                "modGitPath": "ChillGunner/RisingLava",
+                "modInfoUrl": "https://github.com/ChillGunner/RisingLava",
+                "modDownloadUrl": "https://github.com/ChillGunner/RisingLava/releases/download/1.0.2/RisingLava.zip",
+                "modInstallLocation": "BepInEx/plugins",
+                "modDependencies": [
+                    "Utilla",
+                    "Computer Interface"
+                ]
+            },
+
+            "Slippery Ice": {
+                "modName": "Slippery Ice",
+                "modAuthor": "fchb1239",
+                "modVersion": "1.0.3",
+                "modGitPath": "fchb1239/SlipperyIce",
+                "modInfoUrl": "https://github.com/fchb1239/SlipperyIce",
+                "modDownloadUrl": "https://github.com/fchb1239/SlipperyIce/releases/download/1.0.3/SlipperyIce.zip",
+                "modInstallLocation": "BepInEx/plugins",
+                "modDependencies": [
+                    "Utilla",
+                    "Computer Interface"
+                ]
+            },
+
+            "Solid Monkeys": {
+                "modName": "Solid Monkeys",
+                "modAuthor": "A Haunted Army",
+                "modVersion": "1.0.1",
+                "modGitPath": "AHauntedArmy/SolidMonkeys",
+                "modInfoUrl": "https://github.com/AHauntedArmy/SolidMonkeys",
+                "modDownloadUrl": "https://github.com/AHauntedArmy/SolidMonkeys/releases/download/1.0.1/SolidMonkeys-v1.0.1.zip",
+                "modInstallLocation": "BepInEx/plugins",
+                "modDependencies": [
+                    "Utilla"
+                ]
+            },
+
+            "Space Monke": {
+                "modName": "Space Monke",
+                "modAuthor": "Bobbie",
+                "modVersion": "1.2.3",
+                "modGitPath": "legoandmars/SpaceMonke",
+                "modInfoUrl": "https://github.com/legoandmars/SpaceMonke",
+                "modDownloadUrl": "https://github.com/legoandmars/SpaceMonke/releases/download/v1.2.3/SpaceMonke-1.2.3.zip",
+                "modInstallLocation": "BepInEx/plugins",
+                "modDependencies": [
+                    "Utilla"
+                ]
+            },
+
+            "Super Monke": {
+                "modName": "Super Monke",
+                "modAuthor": "fchb1239",
+                "modVersion": "1.0.0",
+                "modGitPath": "fchb1239/SuperMonke",
+                "modInfoUrl": "https://github.com/fchb1239/SuperMonke",
+                "modDownloadUrl": "https://github.com/fchb1239/SuperMonke/releases/download/1.0.0/SuperMonke.zip",
+                "modInstallLocation": "BepInEx/plugins",
+                "modDependencies": [
+                    "Utilla"
+                ]
+            }
+        },
+
+        "Tools": {
+            "BrokenController": {
+                "modName": "BrokenController",
+                "modAuthor": "A Haunted Army",
+                "modVersion": "1.0.1",
+                "modGitPath": "AHauntedArmy/BrokenController",
+                "modInfoUrl": "https://github.com/AHauntedArmy/BrokenController",
+                "modDownloadUrl": "https://github.com/AHauntedArmy/BrokenController/releases/download/1.0.1/BrokenController-v1.0.1.zip",
+                "modInstallLocation": "BepInEx/plugins"
+            },
+
+            "Haunted Mod Menu": {
+                "modName": "Haunted Mod Menu",
+                "modAuthor": "A Haunted Army",
+                "modVersion": "1.0.0",
+                "modGitPath": "AHauntedArmy/HauntedModMenu",
+                "modInfoUrl": "https://github.com/AHauntedArmy/HauntedModMenu",
+                "modDownloadUrl": "https://github.com/AHauntedArmy/HauntedModMenu/releases/download/1.0.0/HauntedModMenu-v1.0.0.zip",
+                "modInstallLocation": "BepInEx/plugins",
+                "modDependencies": [
+                    "Utilla"
+                ]
             }
         }
     }
