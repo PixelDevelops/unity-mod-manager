@@ -276,7 +276,316 @@
                 "modDependencies": [
                     "Utilla"
                 ]
+            },
+
+            "LIV": {
+                "modName": "LIV",
+                "modAuthor": "Raicuparta",
+                "modVersion": "1.5.0",
+                "modGitPath": "LIV/GorillaTagLIV",
+                "modInfoUrl": "https://github.com/LIV/GorillaTagLIV",
+                "modDownloadUrl": "https://github.com/LIV/GorillaTagLIV/releases/download/v1.5.0/GorillaTagLIV.zip",
+                "modInstallLocation": "BepInEx/plugins",
+                "modDependencies": [
+                    "Utilla",
+                    "Computer Interface"
+                ]
+            },
+
+            "MonkeSwim": {
+                "modName": "MonkeSwim",
+                "modAuthor": "A Haunted Army",
+                "modVersion": "1.0.7",
+                "modGitPath": "AHauntedArmy/MonkeSwim",
+                "modInfoUrl": "https://github.com/AHauntedArmy",
+                "modDownloadUrl": "https://github.com/AHauntedArmy/MonkeSwim/releases/download/1.0.7/MonkeSwim-v1.0.7.zip",
+                "modInstallLocation": "BepInEx/plugins",
+                "modDependencies": [
+                    "Monke Map Loader"
+                ]
+            },
+
+            "NoAmbient": {
+                "modName": "NoAmbient",
+                "modAuthor": "[.=KILL MAN=.] aka RusJJ",
+                "modVersion": "1.1.0",
+                "modGitPath": "RusJJ/NoAmbient",
+                "modInfoUrl": "https://github.com/RusJJ/NoAmbient",
+                "modDownloadUrl": "https://github.com/RusJJ/NoAmbient/releases/download/1.1.0/NoAmbient.zip",
+                "modInstallLocation": "BepInEx/plugins"
+            },
+
+            "YURFitGorillaTag": {
+                "modName": "YURFitGorillaTag",
+                "modAuthor": "A Haunted Army & fchb1239",
+                "modVersion": "1.0.3",
+                "modGitPath": "AHauntedArmy/YURFitGorillaTag",
+                "modInfoUrl": "https://github.com/AHauntedArmy/YURFitGorillaTag",
+                "modDownloadUrl": "https://github.com/AHauntedArmy/YURFitGorillaTag/releases/download/1.0.3/YURFitGorillaTag-v1.0.3.zip",
+                "modInstallLocation": "BepInEx/plugins",
+                "modDependencies": [
+                    "TMPLoader"
+                ]
             }
+        },
+
+        "Mod Menus": {
+            "Flaymo Menu V1": {
+                "modName": "Flaymo Menu V1",
+                "modAuthor": "flaymo!#0021",
+                "modVersion": "1.0.0",
+                "modInfoUrl": "https://discord.com/channels/904806464135245834/980932091132936262/980933750596702258",
+                "modDownloadUrl": "https://cdn.discordapp.com/attachments/980932091132936262/980933750382813184/FlaymoMenuV1.dll",
+                "modInstallLocation": "BepInEx/plugins",
+                "modDependencies": [
+                    "Utilla"
+                ]
+            },
+
+            "Flaymo Menu V2": {
+                "modName": "Flaymo Menu V2",
+                "modAuthor": "flaymo!#0021",
+                "modVersion": "1.0.0",
+                "modInfoUrl": "https://discord.com/channels/904806464135245834/980932091132936262/980933911884468284",
+                "modDownloadUrl": "https://cdn.discordapp.com/attachments/980932091132936262/980933911427305492/FlaymoMenuV2.dll",
+                "modInstallLocation": "BepInEx/plugins",
+                "modDependencies": [
+                    "Utilla"
+                ]
+            },
+
+            "Mango Mod Menu V1": {
+                "modName": "Mango Mod Menu V1",
+                "modAuthor": "Mango_#4589",
+                "modVersion": "1.0.0",
+                "modInfoUrl": "https://discord.com/channels/904806464135245834/980934941384798258/980940369262948392",
+                "modDownloadUrl": "https://cdn.discordapp.com/attachments/980934941384798258/980940369090994196/MangoModMenuV1.dll",
+                "modInstallLocation": "BepInEx/plugins"
+            },
+
+            "Mango Mod Menu V2": {
+                "modName": "Mango Mod Menu V2",
+                "modAuthor": "Mango_#4589",
+                "modVersion": "1.0.0",
+                "modInfoUrl": "https://discord.com/channels/904806464135245834/980934941384798258/980940410367119500",
+                "modDownloadUrl": "https://cdn.discordapp.com/attachments/980934941384798258/980940410123853894/MangoModMenuV2.dll",
+                "modInstallLocation": "BepInEx/plugins"
+            },
+
+            "Mango Mod Menu V3": {
+                "modName": "Mango Mod Menu V3",
+                "modAuthor": "Mango_#4589",
+                "modVersion": "1.0.0",
+                "modInfoUrl": "https://discord.com/channels/904806464135245834/980934941384798258/980940428331323482",
+                "modDownloadUrl": "https://cdn.discordapp.com/attachments/980934941384798258/980940428121624676/MangoModMenuV3.dll",
+                "modInstallLocation": "BepInEx/plugins"
+            },
+
+            "Mango Mod Menu V4": {
+                "modName": "Mango Mod Menu V4",
+                "modAuthor": "Mango_#4589",
+                "modVersion": "1.0.0",
+                "modInfoUrl": "https://discord.com/channels/904806464135245834/980934941384798258/980940471054512168",
+                "modDownloadUrl": "https://cdn.discordapp.com/attachments/980934941384798258/980940470853201981/MangoModMenuV4.dll",
+                "modInstallLocation": "BepInEx/plugins"
+            },
+
+            "Mango Mod Menu V5 Beta": {
+                "modName": "Mango Mod Menu V5 Beta",
+                "modAuthor": "Mango_#4589",
+                "modVersion": "1.0.0",
+                "modInfoUrl": "https://discord.com/channels/953830146442420234/971586216875155526/971680784920477697",
+                "modDownloadUrl": "https://cdn.discordapp.com/attachments/971586216875155526/971680785046335548/MangoMenuV5beta.dll",
+                "modInstallLocation": "BepInEx/plugins"
+            },
+
+            "Shibex V1": {
+                "modName": "Shibex V1",
+                "modAuthor": "kansloos#0001",
+                "modVersion": "1.0.0",
+                "modInfoUrl": "https://discord.com/channels/960169057334734889/960608820739072041/960895238518505552",
+                "modDownloadUrl": "https://cdn.discordapp.com/attachments/960608820739072041/960895238250049606/ShibexV1.dll",
+                "modInstallLocation": "BepInEx/plugins",
+                "modDependencies": [
+                    "Utilla"
+                ]
+            },
+
+            "Shibex V2": {
+                "modName": "Shibex V2",
+                "modAuthor": "kansloos#0001",
+                "modVersion": "1.0.0",
+                "modInfoUrl": "https://discord.com/channels/960169057334734889/960608820739072041/962089178324144159",
+                "modDownloadUrl": "https://cdn.discordapp.com/attachments/960608820739072041/962089178382872616/ShibexV2.dll",
+                "modInstallLocation": "BepInEx/plugins",
+                "modDependencies": [
+                    "Utilla"
+                ]
+            },
+
+            "Shibex V3": {
+                "modName": "Shibex V3",
+                "modAuthor": "kansloos#0001",
+                "modVersion": "1.0.0",
+                "modInfoUrl": "https://discord.com/channels/960169057334734889/960608820739072041/966026041653088276",
+                "modDownloadUrl": "https://cdn.discordapp.com/attachments/960608820739072041/966026041393045524/Shibex.dll",
+                "modInstallLocation": "BepInEx/plugins",
+                "modDependencies": [
+                    "Utilla"
+                ]
+            },
+
+            "ShibaGTs Menu V1": {
+                "modName": "ShibaGTs Menu V1",
+                "modAuthor": "shiba#4920",
+                "modVersion": "1.0.0",
+                "modInfoUrl": "https://discord.com/channels/963564974914035862/964726526279032832/964974467451351040",
+                "modDownloadUrl": "https://cdn.discordapp.com/attachments/964726526279032832/964974467283570818/ShibaGTs_Menu_V1.dll",
+                "modInstallLocation": "BepInEx/plugins"
+            },
+
+            "ShibaGTs Menu V2": {
+                "modName": "ShibaGTs Menu V2",
+                "modAuthor": "shiba#4920",
+                "modVersion": "1.0.0",
+                "modInfoUrl": "https://discord.com/channels/963564974914035862/964726526279032832/965002925833334844",
+                "modDownloadUrl": "https://cdn.discordapp.com/attachments/964726526279032832/965002925657170010/ShibaGTs_Menu_V2.dll",
+                "modInstallLocation": "BepInEx/plugins"
+            },
+
+            "ShibaGTs Menu V3": {
+                "modName": "ShibaGTs Menu V3",
+                "modAuthor": "shiba#4920",
+                "modVersion": "1.0.0",
+                "modInfoUrl": "https://discord.com/channels/963564974914035862/964726526279032832/965332894639878144",
+                "modDownloadUrl": "https://cdn.discordapp.com/attachments/964726526279032832/965333099938472026/ShibaGTs_Menu_V3.dll",
+                "modInstallLocation": "BepInEx/plugins"
+            },
+
+            "ShibaGTs Menu V4": {
+                "modName": "ShibaGTs Menu V4",
+                "modAuthor": "shiba#4920",
+                "modVersion": "1.0.0",
+                "modInfoUrl": "https://discord.com/channels/963564974914035862/964726526279032832/965743086993014814",
+                "modDownloadUrl": "https://cdn.discordapp.com/attachments/964726526279032832/965743086816882738/ShibaGTs_Menu_V4.dll",
+                "modInstallLocation": "BepInEx/plugins"
+            },
+
+            "ShibaGTs Menu V5": {
+                "modName": "ShibaGTs Menu V5",
+                "modAuthor": "shiba#4920",
+                "modVersion": "1.0.0",
+                "modInfoUrl": "https://discord.com/channels/963564974914035862/964726526279032832/966173442779013131",
+                "modDownloadUrl": "https://cdn.discordapp.com/attachments/964726526279032832/966173442577662012/ShibaGTs_Menu_V5.dll",
+                "modInstallLocation": "BepInEx/plugins"
+            },
+
+            "ShibaGTs Menu V6": {
+                "modName": "ShibaGTs Menu V6",
+                "modAuthor": "shiba#4920",
+                "modVersion": "1.0.0",
+                "modInfoUrl": "https://discord.com/channels/963564974914035862/964726526279032832/967567015445422110",
+                "modDownloadUrl": "https://cdn.discordapp.com/attachments/964726526279032832/967567015256686602/ShibaGTs_Menu_V6.dll",
+                "modInstallLocation": "BepInEx/plugins"
+            },
+
+            "ShibaGTs Menu V7": {
+                "modName": "ShibaGTs Menu V7",
+                "modAuthor": "shiba#4920",
+                "modVersion": "1.0.0",
+                "modInfoUrl": "https://discord.com/channels/963564974914035862/964726526279032832/967646052276662292",
+                "modDownloadUrl": "https://cdn.discordapp.com/attachments/964726526279032832/967646052083716136/ShibaGTs_Menu_V7.dll",
+                "modInstallLocation": "BepInEx/plugins"
+            },
+
+            "ShibaGTs Menu V8": {
+                "modName": "ShibaGTs Menu V8",
+                "modAuthor": "shiba#4920",
+                "modVersion": "1.0.0",
+                "modInfoUrl": "https://discord.com/channels/963564974914035862/964726526279032832/967809462264008724",
+                "modDownloadUrl": "https://cdn.discordapp.com/attachments/964726526279032832/967809462087872582/ShibaGTs_Menu_V8.dll",
+                "modInstallLocation": "BepInEx/plugins"
+            },
+
+            "ShibaGTs Menu V9": {
+                "modName": "ShibaGTs Menu V9",
+                "modAuthor": "shiba#4920",
+                "modVersion": "1.0.0",
+                "modInfoUrl": "https://discord.com/channels/963564974914035862/964726526279032832/969809195266347051",
+                "modDownloadUrl": "https://cdn.discordapp.com/attachments/964726526279032832/969809195320877056/ShibaGTs_Menu_V9_FIX.dll",
+                "modInstallLocation": "BepInEx/plugins"
+            },
+
+            "ShibaGTs Menu V10": {
+                "modName": "ShibaGTs Menu V10",
+                "modAuthor": "shiba#4920",
+                "modVersion": "1.0.0",
+                "modInfoUrl": "https://discord.com/channels/963564974914035862/964726526279032832/970446461047291964",
+                "modDownloadUrl": "https://cdn.discordapp.com/attachments/964726526279032832/970446460879536178/ShibaGTs_Menu_V10.dll",
+                "modInstallLocation": "BepInEx/plugins"
+            },
+
+            "ShibaGTs Menu V11": {
+                "modName": "ShibaGTs Menu V11",
+                "modAuthor": "shiba#4920",
+                "modVersion": "1.0.0",
+                "modInfoUrl": "https://discord.com/channels/963564974914035862/964726526279032832/972582151184863332",
+                "modDownloadUrl": "https://cdn.discordapp.com/attachments/964726526279032832/972582150928998500/ShibaGTs_Menu_V11.dll",
+                "modInstallLocation": "BepInEx/plugins"
+            },
+
+            "ShibaGTs Menu V12": {
+                "modName": "ShibaGTs Menu V12",
+                "modAuthor": "shiba#4920",
+                "modVersion": "1.0.0",
+                "modInfoUrl": "https://discord.com/channels/963564974914035862/964726526279032832/972946866931130379",
+                "modDownloadUrl": "https://cdn.discordapp.com/attachments/964726526279032832/972947210255859772/ShibaGTs_Menu_V12.dll",
+                "modInstallLocation": "BepInEx/plugins"
+            },
+
+            "ShibaGTs Menu V13": {
+                "modName": "ShibaGTs Menu V13",
+                "modAuthor": "shiba#4920",
+                "modVersion": "1.0.0",
+                "modInfoUrl": "https://discord.com/channels/963564974914035862/964726526279032832/975504259703521300",
+                "modDownloadUrl": "https://cdn.discordapp.com/attachments/964726526279032832/975504259518955640/ShibaGTs_Menu_V13.dll",
+                "modInstallLocation": "BepInEx/plugins"
+            },
+
+            "ShibaGTs Menu X V1": {
+                "modName": "ShibaGTs Menu X V1",
+                "modAuthor": "shiba#4920",
+                "modVersion": "1.0.0",
+                "modInfoUrl": "https://discord.com/channels/963564974914035862/964726526279032832/978090931997802528",
+                "modDownloadUrl": "https://cdn.discordapp.com/attachments/964726526279032832/978090931771305994/ShibaGTs_Menu-X_v1.0.dll",
+                "modInstallLocation": "BepInEx/plugins"
+            },
+
+            "ShibaGTs Menu X V1.5": {
+                "modName": "ShibaGTs Menu X V1.5",
+                "modAuthor": "shiba#4920",
+                "modVersion": "1.0.0",
+                "modInfoUrl": "https://discord.com/channels/963564974914035862/964726526279032832/980245567974281246",
+                "modDownloadUrl": "https://cdn.discordapp.com/attachments/964726526279032832/980245567760388096/ShibaGTs_Menu-X_v1.5.dll",
+                "modInstallLocation": "BepInEx/plugins"
+            },
+
+            "ShibaGTs Menu X V2": {
+                "modName": "ShibaGTs Menu X V2",
+                "modAuthor": "shiba#4920",
+                "modVersion": "1.0.0",
+                "modInfoUrl": "https://discord.com/channels/963564974914035862/964726526279032832/980619266116165643",
+                "modDownloadUrl": "https://cdn.discordapp.com/attachments/964726526279032832/981038465321955328/ShibaGTs_Menu-X_v2.0_MENU_FIX.dll",
+                "modInstallLocation": "BepInEx/plugins"
+            }
+        },
+
+        "Fun": {
+
+        },
+
+        "Libraries": {
+
         }
     }
 }
