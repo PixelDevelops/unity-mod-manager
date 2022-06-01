@@ -9,7 +9,7 @@ let modList = JSON.parse(inputJSON);
 let result = []
 
 modList.mods.forEach(mod => 
-  https.get(`${prefix}${mod.gitPath}${postfix}`, { headers: { 'User-Agent' : 'PixelDevelops/unity-mod-manager' ,'Authorization': `Token ${process.env.SECRET}`}},(res) => {
+  https.get(`${prefix}${mod.gitPath}${postfix}`, { headers: { 'User-Agent' : 'PixelDevelops/unity-mod-manager' ,'Authorization': `Token ${process.env.UPDATE_MODS_TOKEN}`}},(res) => {
     let body = "";
 
       res.on("data", (chunk) => {
