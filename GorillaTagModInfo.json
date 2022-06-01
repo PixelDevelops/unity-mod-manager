@@ -1,0 +1,760 @@
+[
+    {
+        "modName": "BepInEx",
+        "modAuthor": "BepInEx Team",
+        "modVersion": "5.4.19",
+        "modGroup": "Core",
+        "modGitPath": "BepInEx/BepInEx",
+        "modInfoUrl": "https://github.com/BepInEx/BepInEx",
+        "modDownloadUrl": "https://github.com/BepInEx/BepInEx/releases/download/v5.4.19/BepInEx_x64_5.4.19.0.zip"
+    },
+
+    {
+        "modName": "Utility Menu",
+        "modAuthor": "PixelDevelops",
+        "modVersion": "v0.0.1",
+        "modGroup": "Core",
+        "modGitPath": "PixelDevelops/UtilityMenu",
+        "modInfoUrl": "https://github.com/PixelDevelops/UtilityMenu",
+        "modDownloadUrl": "https://github.com/PixelDevelops/UtilityMenu/releases/download/v0.0.1/UtilityMenu_x64_0.0.1.zip",
+        "modInstallLocation": "BepInEx/plugins"
+    },
+
+    {
+        "modName": "Gorilla Cosmetics",
+        "modAuthor": "Bobbie & Graic",
+        "modVersion": "3.0.1",
+        "modGroup": "Cosmetic",
+        "modGitPath": "legoandmars/GorillaCosmetics",
+        "modInfoUrl": "https://github.com/legoandmars/GorillaCosmetics",
+        "modDownloadUrl": "https://github.com/legoandmars/GorillaCosmetics/releases/download/v3.0.1/GorillaCosmetics-3.0.1.zip",
+        "modInstallLocation": "BepInEx/plugins",
+        "modDependencies": [
+            "Utilla",
+            "Newtonsoft.JSON"
+        ]
+    },
+
+    {
+        "modName": "Rain Disabler",
+        "modAuthor": "Buzz Bzzz bzz BZZZ The 18th",
+        "modVersion": "1.0.0",
+        "modGroup": "Cosmetic",
+        "modGitPath": "BzzzThe18th/Rain-Disabler-PC",
+        "modInfoUrl": "https://github.com/BzzzThe18th/Rain-Disabler-PC",
+        "modDownloadUrl": "https://github.com/BzzzThe18th/Rain-Disabler-PC/releases/download/1.0.0/RainToggle-v1.0.0.zip",
+        "modInstallLocation": "BepInEx/plugins",
+        "modDependencies": [
+            "Utilla"
+        ]
+    },
+
+    {
+        "modName": "AirJump",
+        "modAuthor": "fchb1239",
+        "modVersion": "1.0.2",
+        "modGroup": "Gameplay",
+        "modGitPath": "fchb1239/AirJump",
+        "modInfoUrl": "https://github.com/fchb1239/AirJump",
+        "modDownloadUrl": "https://github.com/fchb1239/AirJump/releases/download/1.0.2/AirJump.zip",
+        "modInstallLocation": "BepInEx/plugins",
+        "modDependencies": [
+            "Utilla",
+            "Computer Interface"
+        ]
+    },
+
+    {
+        "modName": "Dash Monke",
+        "modAuthor": "Frogrilla",
+        "modVersion": "1.0.2",
+        "modGroup": "Gameplay",
+        "modGitPath": "Frogrilla/DashMonke",
+        "modInfoUrl": "https://github.com/Frogrilla/DashMonke",
+        "modDownloadUrl": "https://github.com/Frogrilla/DashMonke/releases/download/1.0.2/DashMonke-v1.0.2.zip",
+        "modInstallLocation": "BepInEx/plugins",
+        "modDependencies": [
+            "Utilla"
+        ]
+    },
+
+    {
+        "modName": "Grav Monke",
+        "modAuthor": "Buzz Bzzz bzz BZZZ The 18th",
+        "modVersion": "1.0.0",
+        "modGroup": "Gameplay",
+        "modGitPath": "BzzzThe18th/Grav-Monke-PC",
+        "modInfoUrl": "https://github.com/BzzzThe18th/Grav-Monke-PC",
+        "modDownloadUrl": "https://github.com/BzzzThe18th/Grav-Monke-PC/releases/download/1.0.0/GravMonke-v1.0.0.zip",
+        "modDependencies": [
+            "Utilla"
+        ]
+    },
+
+    {
+        "modName": "GripMonke",
+        "modAuthor": "Lillie",
+        "modVersion": "2.1.1",
+        "modGroup": "Gameplay",
+        "modGitPath": "WowItsKaylie/GripMonke",
+        "modInfoUrl": "https://github.com/WowItsKaylie/GripMonke",
+        "modDownloadUrl": "https://github.com/WowItsKaylie/GripMonke/releases/download/2.1.1/GripMonke-v2.1.1.zip",
+        "modInstallLocation": "BepInEx/plugins",
+        "modDependencies": [
+            "Utilla",
+            "Computer Interface"
+        ]
+    },
+
+    {
+        "modName": "Iron Monke",
+        "modAuthor": "Buzz Bzzz bzz BZZZ The 18th",
+        "modVersion": "1.0.1",
+        "modGroup": "Gameplay",
+        "modGitPath": "BzzzThe18th/IronMonkePC",
+        "modInfoUrl": "https://github.com/BzzzThe18th/IronMonkePC",
+        "modDownloadUrl": "https://github.com/BzzzThe18th/IronMonkePC/releases/download/1.0.1/IronMonke-v1.0.1.zip",
+        "modInstallLocation": "BepInEx/plugins",
+        "modDependencies": [
+            "Utilla"
+        ]
+    },
+
+    {
+        "modName": "Marry Poppins",
+        "modAuthor": "Buzz Bzzz bzz BZZZ The 18th",
+        "modVersion": "1.0.1",
+        "modGroup": "Gameplay",
+        "modGitPath": "BzzzThe18th/Marry-Poppins-PC",
+        "modInfoUrl": "https://github.com/BzzzThe18th/Marry-Poppins-PC",
+        "modDownloadUrl": "https://github.com/BzzzThe18th/Marry-Poppins-PC/releases/download/1.0.1/MarryPoppins-v1.0.1.zip",
+        "modInstallLocation": "BepInEx/plugins",
+        "modDependencies": [
+            "Utilla"
+        ]
+    },
+
+    {
+        "modName": "Monke Bazooka",
+        "modAuthor": "Waulta",
+        "modVersion": "1.0.0",
+        "modGroup": "Gameplay",
+        "modGitPath": "Waulta/MonkeBazooka",
+        "modInfoUrl": "https://github.com/Waulta/MonkeBazooka",
+        "modDownloadUrl": "https://github.com/Waulta/MonkeBazooka/releases/download/1.0.0/MonkeBazooka.zip",
+        "modInstallLocation": "BepInEx/plugins",
+        "modDependencies": [
+            "Utilla",
+            "Computer Interface"
+        ]
+    },
+
+    {
+        "modName": "Monke Map Loader",
+        "modAuthor": "Vadix",
+        "modVersion": "1.1.5",
+        "modGroup": "Gameplay",
+        "modGitPath": "Vadix88/MonkeMapLoader",
+        "modInfoUrl": "https://github.com/Vadix88/MonkeMapLoader",
+        "modDownloadUrl": "https://github.com/Vadix88/MonkeMapLoader/releases/download/v1.1.5/MonkeMapLoader-1.1.5.zip",
+        "modInstallLocation": "BepInEx/plugins",
+        "modDependencies": [
+            "Newtonsoft.JSON",
+            "Utilla",
+            "Computer Interface"
+        ]
+    },
+
+    {
+        "modName": "PowerArms",
+        "modAuthor": "A Haunted Army",
+        "modVersion": "1.0.3",
+        "modGroup": "Gameplay",
+        "modGitPath": "AHauntedArmy/PowerArms",
+        "modInfoUrl": "https://github.com/AHauntedArmy/PowerArms",
+        "modDownloadUrl": "https://github.com/AHauntedArmy/PowerArms/releases/download/1.0.3/PowerArms-v1.0.3.zip",
+        "modInstallLocation": "BepInEx/plugins",
+        "modDependencies": [
+            "Utilla"
+        ]
+    },
+
+    {
+        "modName": "Practice Mod",
+        "modAuthor": "Graic",
+        "modVersion": "1.1.2",
+        "modGroup": "Gameplay",
+        "modGitPath": "Graicc/PracticeMod",
+        "modInfoUrl": "https://github.com/Graicc/PracticeMod",
+        "modDownloadUrl": "https://github.com/Graicc/PracticeMod/releases/download/v1.1.2/PracticeMod-v1.1.2.zip",
+        "modInstallLocation": "BepInEx/plugins",
+        "modDependencies": [
+            "Utilla",
+            "Computer Interface"
+        ]
+    },
+
+    {
+        "modName": "Rising Lava",
+        "modAuthor": "BoopetyDoopety",
+        "modVersion": "1.0.2",
+        "modGroup": "Gameplay",
+        "modGitPath": "ChillGunner/RisingLava",
+        "modInfoUrl": "https://github.com/ChillGunner/RisingLava",
+        "modDownloadUrl": "https://github.com/ChillGunner/RisingLava/releases/download/1.0.2/RisingLava.zip",
+        "modInstallLocation": "BepInEx/plugins",
+        "modDependencies": [
+            "Utilla",
+            "Computer Interface"
+        ]
+    },
+
+    {
+        "modName": "Slippery Ice",
+        "modAuthor": "fchb1239",
+        "modVersion": "1.0.3",
+        "modGroup": "Gameplay",
+        "modGitPath": "fchb1239/SlipperyIce",
+        "modInfoUrl": "https://github.com/fchb1239/SlipperyIce",
+        "modDownloadUrl": "https://github.com/fchb1239/SlipperyIce/releases/download/1.0.3/SlipperyIce.zip",
+        "modInstallLocation": "BepInEx/plugins",
+        "modDependencies": [
+            "Utilla",
+            "Computer Interface"
+        ]
+    },
+
+    {
+        "modName": "Solid Monkeys",
+        "modAuthor": "A Haunted Army",
+        "modVersion": "1.0.1",
+        "modGroup": "Gameplay",
+        "modGitPath": "AHauntedArmy/SolidMonkeys",
+        "modInfoUrl": "https://github.com/AHauntedArmy/SolidMonkeys",
+        "modDownloadUrl": "https://github.com/AHauntedArmy/SolidMonkeys/releases/download/1.0.1/SolidMonkeys-v1.0.1.zip",
+        "modInstallLocation": "BepInEx/plugins",
+        "modDependencies": [
+            "Utilla"
+        ]
+    },
+
+    {
+        "modName": "Space Monke",
+        "modAuthor": "Bobbie",
+        "modVersion": "1.2.3",
+        "modGroup": "Gameplay",
+        "modGitPath": "legoandmars/SpaceMonke",
+        "modInfoUrl": "https://github.com/legoandmars/SpaceMonke",
+        "modDownloadUrl": "https://github.com/legoandmars/SpaceMonke/releases/download/v1.2.3/SpaceMonke-1.2.3.zip",
+        "modInstallLocation": "BepInEx/plugins",
+        "modDependencies": [
+            "Utilla"
+        ]
+    },
+
+    {
+        "modName": "Super Monke",
+        "modAuthor": "fchb1239",
+        "modVersion": "1.0.0",
+        "modGroup": "Gameplay",
+        "modGitPath": "fchb1239/SuperMonke",
+        "modInfoUrl": "https://github.com/fchb1239/SuperMonke",
+        "modDownloadUrl": "https://github.com/fchb1239/SuperMonke/releases/download/1.0.0/SuperMonke.zip",
+        "modInstallLocation": "BepInEx/plugins",
+        "modDependencies": [
+            "Utilla"
+        ]
+    },
+
+    {
+        "modName": "BrokenController",
+        "modAuthor": "A Haunted Army",
+        "modVersion": "1.0.1",
+        "modGroup": "Tools",
+        "modGitPath": "AHauntedArmy/BrokenController",
+        "modInfoUrl": "https://github.com/AHauntedArmy/BrokenController",
+        "modDownloadUrl": "https://github.com/AHauntedArmy/BrokenController/releases/download/1.0.1/BrokenController-v1.0.1.zip",
+        "modInstallLocation": "BepInEx/plugins"
+    },
+
+    {
+        "modName": "Haunted Mod Menu",
+        "modAuthor": "A Haunted Army",
+        "modVersion": "1.0.0",
+        "modGroup": "Tools",
+        "modGitPath": "AHauntedArmy/HauntedModMenu",
+        "modInfoUrl": "https://github.com/AHauntedArmy/HauntedModMenu",
+        "modDownloadUrl": "https://github.com/AHauntedArmy/HauntedModMenu/releases/download/1.0.0/HauntedModMenu-v1.0.0.zip",
+        "modInstallLocation": "BepInEx/plugins",
+        "modDependencies": [
+            "Utilla"
+        ]
+    },
+
+    {
+        "modName": "LIV",
+        "modAuthor": "Raicuparta",
+        "modVersion": "1.5.0",
+        "modGroup": "Tools",
+        "modGitPath": "LIV/GorillaTagLIV",
+        "modInfoUrl": "https://github.com/LIV/GorillaTagLIV",
+        "modDownloadUrl": "https://github.com/LIV/GorillaTagLIV/releases/download/v1.5.0/GorillaTagLIV.zip",
+        "modInstallLocation": "BepInEx/plugins",
+        "modDependencies": [
+            "Utilla",
+            "Computer Interface"
+        ]
+    },
+
+    {
+        "modName": "MonkeSwim",
+        "modAuthor": "A Haunted Army",
+        "modVersion": "1.0.7",
+        "modGroup": "Tools",
+        "modGitPath": "AHauntedArmy/MonkeSwim",
+        "modInfoUrl": "https://github.com/AHauntedArmy",
+        "modDownloadUrl": "https://github.com/AHauntedArmy/MonkeSwim/releases/download/1.0.7/MonkeSwim-v1.0.7.zip",
+        "modInstallLocation": "BepInEx/plugins",
+        "modDependencies": [
+            "Monke Map Loader"
+        ]
+    },
+
+    {
+        "modName": "NoAmbient",
+        "modAuthor": "[.=KILL MAN=.] aka RusJJ",
+        "modVersion": "1.1.0",
+        "modGroup": "Tools",
+        "modGitPath": "RusJJ/NoAmbient",
+        "modInfoUrl": "https://github.com/RusJJ/NoAmbient",
+        "modDownloadUrl": "https://github.com/RusJJ/NoAmbient/releases/download/1.1.0/NoAmbient.zip",
+        "modInstallLocation": "BepInEx/plugins"
+    },
+
+    {
+        "modName": "YURFitGorillaTag",
+        "modAuthor": "A Haunted Army & fchb1239",
+        "modVersion": "1.0.3",
+        "modGroup": "Tools",
+        "modGitPath": "AHauntedArmy/YURFitGorillaTag",
+        "modInfoUrl": "https://github.com/AHauntedArmy/YURFitGorillaTag",
+        "modDownloadUrl": "https://github.com/AHauntedArmy/YURFitGorillaTag/releases/download/1.0.3/YURFitGorillaTag-v1.0.3.zip",
+        "modInstallLocation": "BepInEx/plugins",
+        "modDependencies": [
+            "TMPLoader"
+        ]
+    },
+
+    {
+        "modName": "Flaymo Menu V1",
+        "modAuthor": "flaymo!#0021",
+        "modVersion": "1.0.0",
+        "modGroup": "Mod Menus",
+        "modInfoUrl": "https://discord.com/channels/904806464135245834/980932091132936262/980933750596702258",
+        "modDownloadUrl": "https://cdn.discordapp.com/attachments/980932091132936262/980933750382813184/FlaymoMenuV1.dll",
+        "modInstallLocation": "BepInEx/plugins",
+        "modDependencies": [
+            "Utilla"
+        ]
+    },
+
+    {
+        "modName": "Flaymo Menu V2",
+        "modAuthor": "flaymo!#0021",
+        "modVersion": "1.0.0",
+        "modGroup": "Mod Menus",
+        "modInfoUrl": "https://discord.com/channels/904806464135245834/980932091132936262/980933911884468284",
+        "modDownloadUrl": "https://cdn.discordapp.com/attachments/980932091132936262/980933911427305492/FlaymoMenuV2.dll",
+        "modInstallLocation": "BepInEx/plugins",
+        "modDependencies": [
+            "Utilla"
+        ]
+    },
+
+    {
+        "modName": "Mango Mod Menu V1",
+        "modAuthor": "Mango_#4589",
+        "modVersion": "1.0.0",
+        "modGroup": "Mod Menus",
+        "modInfoUrl": "https://discord.com/channels/904806464135245834/980934941384798258/980940369262948392",
+        "modDownloadUrl": "https://cdn.discordapp.com/attachments/980934941384798258/980940369090994196/MangoModMenuV1.dll",
+        "modInstallLocation": "BepInEx/plugins"
+    },
+
+    {
+        "modName": "Mango Mod Menu V2",
+        "modAuthor": "Mango_#4589",
+        "modVersion": "1.0.0",
+        "modGroup": "Mod Menus",
+        "modInfoUrl": "https://discord.com/channels/904806464135245834/980934941384798258/980940410367119500",
+        "modDownloadUrl": "https://cdn.discordapp.com/attachments/980934941384798258/980940410123853894/MangoModMenuV2.dll",
+        "modInstallLocation": "BepInEx/plugins"
+    },
+
+    {
+        "modName": "Mango Mod Menu V3",
+        "modAuthor": "Mango_#4589",
+        "modVersion": "1.0.0",
+        "modGroup": "Mod Menus",
+        "modInfoUrl": "https://discord.com/channels/904806464135245834/980934941384798258/980940428331323482",
+        "modDownloadUrl": "https://cdn.discordapp.com/attachments/980934941384798258/980940428121624676/MangoModMenuV3.dll",
+        "modInstallLocation": "BepInEx/plugins"
+    },
+
+    {
+        "modName": "Mango Mod Menu V4",
+        "modAuthor": "Mango_#4589",
+        "modVersion": "1.0.0",
+        "modGroup": "Mod Menus",
+        "modInfoUrl": "https://discord.com/channels/904806464135245834/980934941384798258/980940471054512168",
+        "modDownloadUrl": "https://cdn.discordapp.com/attachments/980934941384798258/980940470853201981/MangoModMenuV4.dll",
+        "modInstallLocation": "BepInEx/plugins"
+    },
+
+    {
+        "modName": "Mango Mod Menu V5 Beta",
+        "modAuthor": "Mango_#4589",
+        "modVersion": "1.0.0",
+        "modGroup": "Mod Menus",
+        "modInfoUrl": "https://discord.com/channels/953830146442420234/971586216875155526/971680784920477697",
+        "modDownloadUrl": "https://cdn.discordapp.com/attachments/971586216875155526/971680785046335548/MangoMenuV5beta.dll",
+        "modInstallLocation": "BepInEx/plugins"
+    },
+
+    {
+        "modName": "Shibex V1",
+        "modAuthor": "kansloos#0001",
+        "modVersion": "1.0.0",
+        "modGroup": "Mod Menus",
+        "modInfoUrl": "https://discord.com/channels/960169057334734889/960608820739072041/960895238518505552",
+        "modDownloadUrl": "https://cdn.discordapp.com/attachments/960608820739072041/960895238250049606/ShibexV1.dll",
+        "modInstallLocation": "BepInEx/plugins",
+        "modDependencies": [
+            "Utilla"
+        ]
+    },
+
+    {
+        "modName": "Shibex V2",
+        "modAuthor": "kansloos#0001",
+        "modVersion": "1.0.0",
+        "modGroup": "Mod Menus",
+        "modInfoUrl": "https://discord.com/channels/960169057334734889/960608820739072041/962089178324144159",
+        "modDownloadUrl": "https://cdn.discordapp.com/attachments/960608820739072041/962089178382872616/ShibexV2.dll",
+        "modInstallLocation": "BepInEx/plugins",
+        "modDependencies": [
+            "Utilla"
+        ]
+    },
+
+    {
+        "modName": "Shibex V3",
+        "modAuthor": "kansloos#0001",
+        "modVersion": "1.0.0",
+        "modGroup": "Mod Menus",
+        "modInfoUrl": "https://discord.com/channels/960169057334734889/960608820739072041/966026041653088276",
+        "modDownloadUrl": "https://cdn.discordapp.com/attachments/960608820739072041/966026041393045524/Shibex.dll",
+        "modInstallLocation": "BepInEx/plugins",
+        "modDependencies": [
+            "Utilla"
+        ]
+    },
+
+    {
+        "modName": "ShibaGTs Menu V1",
+        "modAuthor": "shiba#4920",
+        "modVersion": "1.0.0",
+        "modGroup": "Mod Menus",
+        "modInfoUrl": "https://discord.com/channels/963564974914035862/964726526279032832/964974467451351040",
+        "modDownloadUrl": "https://cdn.discordapp.com/attachments/964726526279032832/964974467283570818/ShibaGTs_Menu_V1.dll",
+        "modInstallLocation": "BepInEx/plugins"
+    },
+
+    {
+        "modName": "ShibaGTs Menu V2",
+        "modAuthor": "shiba#4920",
+        "modVersion": "1.0.0",
+        "modGroup": "Mod Menus",
+        "modInfoUrl": "https://discord.com/channels/963564974914035862/964726526279032832/965002925833334844",
+        "modDownloadUrl": "https://cdn.discordapp.com/attachments/964726526279032832/965002925657170010/ShibaGTs_Menu_V2.dll",
+        "modInstallLocation": "BepInEx/plugins"
+    },
+
+    {
+        "modName": "ShibaGTs Menu V3",
+        "modAuthor": "shiba#4920",
+        "modVersion": "1.0.0",
+        "modGroup": "Mod Menus",
+        "modInfoUrl": "https://discord.com/channels/963564974914035862/964726526279032832/965332894639878144",
+        "modDownloadUrl": "https://cdn.discordapp.com/attachments/964726526279032832/965333099938472026/ShibaGTs_Menu_V3.dll",
+        "modInstallLocation": "BepInEx/plugins"
+    },
+
+    {
+        "modName": "ShibaGTs Menu V4",
+        "modAuthor": "shiba#4920",
+        "modVersion": "1.0.0",
+        "modGroup": "Mod Menus",
+        "modInfoUrl": "https://discord.com/channels/963564974914035862/964726526279032832/965743086993014814",
+        "modDownloadUrl": "https://cdn.discordapp.com/attachments/964726526279032832/965743086816882738/ShibaGTs_Menu_V4.dll",
+        "modInstallLocation": "BepInEx/plugins"
+    },
+
+    {
+        "modName": "ShibaGTs Menu V5",
+        "modAuthor": "shiba#4920",
+        "modVersion": "1.0.0",
+        "modGroup": "Mod Menus",
+        "modInfoUrl": "https://discord.com/channels/963564974914035862/964726526279032832/966173442779013131",
+        "modDownloadUrl": "https://cdn.discordapp.com/attachments/964726526279032832/966173442577662012/ShibaGTs_Menu_V5.dll",
+        "modInstallLocation": "BepInEx/plugins"
+    },
+
+    {
+        "modName": "ShibaGTs Menu V6",
+        "modAuthor": "shiba#4920",
+        "modVersion": "1.0.0",
+        "modGroup": "Mod Menus",
+        "modInfoUrl": "https://discord.com/channels/963564974914035862/964726526279032832/967567015445422110",
+        "modDownloadUrl": "https://cdn.discordapp.com/attachments/964726526279032832/967567015256686602/ShibaGTs_Menu_V6.dll",
+        "modInstallLocation": "BepInEx/plugins"
+    },
+
+    {
+        "modName": "ShibaGTs Menu V7",
+        "modAuthor": "shiba#4920",
+        "modVersion": "1.0.0",
+        "modGroup": "Mod Menus",
+        "modInfoUrl": "https://discord.com/channels/963564974914035862/964726526279032832/967646052276662292",
+        "modDownloadUrl": "https://cdn.discordapp.com/attachments/964726526279032832/967646052083716136/ShibaGTs_Menu_V7.dll",
+        "modInstallLocation": "BepInEx/plugins"
+    },
+
+    {
+        "modName": "ShibaGTs Menu V8",
+        "modAuthor": "shiba#4920",
+        "modVersion": "1.0.0",
+        "modGroup": "Mod Menus",
+        "modInfoUrl": "https://discord.com/channels/963564974914035862/964726526279032832/967809462264008724",
+        "modDownloadUrl": "https://cdn.discordapp.com/attachments/964726526279032832/967809462087872582/ShibaGTs_Menu_V8.dll",
+        "modInstallLocation": "BepInEx/plugins"
+    },
+
+    {
+        "modName": "ShibaGTs Menu V9",
+        "modAuthor": "shiba#4920",
+        "modVersion": "1.0.0",
+        "modGroup": "Mod Menus",
+        "modInfoUrl": "https://discord.com/channels/963564974914035862/964726526279032832/969809195266347051",
+        "modDownloadUrl": "https://cdn.discordapp.com/attachments/964726526279032832/969809195320877056/ShibaGTs_Menu_V9_FIX.dll",
+        "modInstallLocation": "BepInEx/plugins"
+    },
+
+    {
+        "modName": "ShibaGTs Menu V10",
+        "modAuthor": "shiba#4920",
+        "modVersion": "1.0.0",
+        "modGroup": "Mod Menus",
+        "modInfoUrl": "https://discord.com/channels/963564974914035862/964726526279032832/970446461047291964",
+        "modDownloadUrl": "https://cdn.discordapp.com/attachments/964726526279032832/970446460879536178/ShibaGTs_Menu_V10.dll",
+        "modInstallLocation": "BepInEx/plugins"
+    },
+
+    {
+        "modName": "ShibaGTs Menu V11",
+        "modAuthor": "shiba#4920",
+        "modVersion": "1.0.0",
+        "modGroup": "Mod Menus",
+        "modInfoUrl": "https://discord.com/channels/963564974914035862/964726526279032832/972582151184863332",
+        "modDownloadUrl": "https://cdn.discordapp.com/attachments/964726526279032832/972582150928998500/ShibaGTs_Menu_V11.dll",
+        "modInstallLocation": "BepInEx/plugins"
+    },
+
+    {
+        "modName": "ShibaGTs Menu V12",
+        "modAuthor": "shiba#4920",
+        "modVersion": "1.0.0",
+        "modGroup": "Mod Menus",
+        "modInfoUrl": "https://discord.com/channels/963564974914035862/964726526279032832/972946866931130379",
+        "modDownloadUrl": "https://cdn.discordapp.com/attachments/964726526279032832/972947210255859772/ShibaGTs_Menu_V12.dll",
+        "modInstallLocation": "BepInEx/plugins"
+    },
+
+    {
+        "modName": "ShibaGTs Menu V13",
+        "modAuthor": "shiba#4920",
+        "modVersion": "1.0.0",
+        "modGroup": "Mod Menus",
+        "modInfoUrl": "https://discord.com/channels/963564974914035862/964726526279032832/975504259703521300",
+        "modDownloadUrl": "https://cdn.discordapp.com/attachments/964726526279032832/975504259518955640/ShibaGTs_Menu_V13.dll",
+        "modInstallLocation": "BepInEx/plugins"
+    },
+
+    {
+        "modName": "ShibaGTs Menu X V1",
+        "modAuthor": "shiba#4920",
+        "modVersion": "1.0.0",
+        "modGroup": "Mod Menus",
+        "modInfoUrl": "https://discord.com/channels/963564974914035862/964726526279032832/978090931997802528",
+        "modDownloadUrl": "https://cdn.discordapp.com/attachments/964726526279032832/978090931771305994/ShibaGTs_Menu-X_v1.0.dll",
+        "modInstallLocation": "BepInEx/plugins"
+    },
+
+    {
+        "modName": "ShibaGTs Menu X V1.5",
+        "modAuthor": "shiba#4920",
+        "modVersion": "1.0.0",
+        "modGroup": "Mod Menus",
+        "modInfoUrl": "https://discord.com/channels/963564974914035862/964726526279032832/980245567974281246",
+        "modDownloadUrl": "https://cdn.discordapp.com/attachments/964726526279032832/980245567760388096/ShibaGTs_Menu-X_v1.5.dll",
+        "modInstallLocation": "BepInEx/plugins"
+    },
+
+    {
+        "modName": "ShibaGTs Menu X V2",
+        "modAuthor": "shiba#4920",
+        "modVersion": "1.0.0",
+        "modGroup": "Mod Menus",
+        "modInfoUrl": "https://discord.com/channels/963564974914035862/964726526279032832/980619266116165643",
+        "modDownloadUrl": "https://cdn.discordapp.com/attachments/964726526279032832/981038465321955328/ShibaGTs_Menu-X_v2.0_MENU_FIX.dll",
+        "modInstallLocation": "BepInEx/plugins"
+    },
+
+    {
+        "modName": "Mono's Sandbox Mod",
+        "modAuthor": "Monosphere",
+        "modVersion": "1.1.0",
+        "modGroup": "Fun",
+        "modGitPath": "Monosphere/Mono-Sandbox-Mod",
+        "modInfoUrl": "https://github.com/Monosphere/Mono-Sandbox-Mod",
+        "modDownloadUrl": "https://github.com/Monosphere/Mono-Sandbox-Mod/releases/download/V1.1/MonoSandbox.dll",
+        "modInstallLocation": "BepInEx/plugins"
+    },
+
+    {
+        "modName": "Seventys Custom Tec-9",
+        "modAuthor": "7Seventy0",
+        "modVersion": "1.0.2",
+        "modGroup": "Fun",
+        "modGitPath": "7Seventy0/SeventysCustomTec9Mod",
+        "modInfoUrl": "https://github.com/7Seventy0/SeventysCustomTec9Mod",
+        "modDownloadUrl": "https://github.com/7Seventy0/SeventysCustomTec9Mod/releases/download/1.0.2/SeventysCustomTec9Mod.dll",
+        "modInstallLocation": "BepInEx/plugins",
+        "modDependencies": [
+            "Utilla",
+            "Computer Interface"
+        ]
+    },
+
+    {
+        "modName": "Seventys Thermal Katana",
+        "modAuthor": "7Seventy0",
+        "modVersion": "1.0.2",
+        "modGroup": "Fun",
+        "modGitPath": "7Seventy0/SeventysThermalKatanaMod",
+        "modInfoUrl": "https://github.com/7Seventy0/SeventysThermalKatanaMod",
+        "modDownloadUrl": "https://github.com/7Seventy0/SeventysThermalKatanaMod/releases/download/mod/SeventysThermalKatanaMod.dll",
+        "modInstallLocation": "BepInEx/plugins",
+        "modDependencies": [
+            "Utilla"
+        ]
+    },
+
+    {
+        "modName": "Seventys RC Airplane",
+        "modAuthor": "7Seventy0",
+        "modVersion": "1.0.1",
+        "modGroup": "Fun",
+        "modGitPath": "7Seventy0/SeventysRCAirPlaneMod",
+        "modInfoUrl": "https://github.com/7Seventy0/SeventysRCAirPlaneMod",
+        "modDownloadUrl": "https://github.com/7Seventy0/SeventysRCAirPlaneMod/releases/download/1.0.1/SeventysRCAirPlaneMod.dll",
+        "modInstallLocation": "BepInEx/plugins",
+        "modDependencies": [
+            "Utilla"
+        ]
+    },
+
+    {
+        "modName": "Seventys Octane Heirloom",
+        "modAuthor": "7Seventy0",
+        "modVersion": "1.0.0",
+        "modGroup": "Fun",
+        "modGitPath": "7Seventy0/SeventysOctaneHeirloomMod",
+        "modInfoUrl": "https://github.com/7Seventy0/SeventysOctaneHeirloomMod",
+        "modDownloadUrl": "https://github.com/7Seventy0/SeventysOctaneHeirloomMod/releases/download/1.0.0/SeventysOctaneHeirloomMod.dll",
+        "modInstallLocation": "BepInEx/plugins",
+        "modDependencies": [
+            "Utilla"
+        ]
+    },
+
+    {
+        "modName": "Seventys Gorilla Arcade",
+        "modAuthor": "7Seventy0",
+        "modVersion": "1.0.0",
+        "modGroup": "Fun",
+        "modGitPath": "7Seventy0/SeventysGorillaArcade",
+        "modInfoUrl": "https://github.com/7Seventy0/SeventysGorillaArcade",
+        "modDownloadUrl": "https://github.com/7Seventy0/SeventysGorillaArcade/releases/download/launch/SeventysGorillaArcade.dll",
+        "modInstallLocation": "BepInEx/plugins",
+        "modDependencies": [
+            "Utilla"
+        ]
+    },
+
+    {
+        "modName": "Seventys Toy Knife",
+        "modAuthor": "7Seventy0",
+        "modVersion": "1.0.20",
+        "modGroup": "Fun",
+        "modGitPath": "7Seventy0/SeventysToyKnifeMod",
+        "modInfoUrl": "https://github.com/7Seventy0/SeventysToyKnifeMod",
+        "modDownloadUrl": "https://github.com/7Seventy0/SeventysToyKnifeMod/releases/download/mod/SeventysToyKnfieMod.dll",
+        "modInstallLocation": "BepInEx/plugins",
+        "modDependencies": [
+            "Utilla"
+        ]
+    },
+
+    {
+        "modName": "Seventys Milk Box",
+        "modAuthor": "7Seventy0",
+        "modVersion": "1.0.1",
+        "modGroup": "Fun",
+        "modGitPath": "7Seventy0/SeventysMilkBoxMod",
+        "modInfoUrl": "https://github.com/7Seventy0/SeventysMilkBoxMod",
+        "modDownloadUrl": "https://github.com/7Seventy0/SeventysMilkBoxMod/releases/download/mod/SeventysMilkBoxMod.dll",
+        "modInstallLocation": "BepInEx/plugins",
+        "modDependencies": [
+            "Utilla"
+        ]
+    },
+
+    {
+        "modName": "Seventys Wraith Heirloom",
+        "modAuthor": "7Seventy0",
+        "modVersion": "1.0.1",
+        "modGroup": "Fun",
+        "modGitPath": "7Seventy0/SeventysWraithHeirloomMod",
+        "modInfoUrl": "https://github.com/7Seventy0/SeventysWraithHeirloomMod",
+        "modDownloadUrl": "https://github.com/7Seventy0/SeventysWraithHeirloomMod/releases/download/mod/SeventysKunaiMod.dll",
+        "modInstallLocation": "BepInEx/plugins",
+        "modDependencies": [
+            "Utilla"
+        ]
+    },
+
+    {
+        "modName": "GrazePossum's Bedroom Mod",
+        "modAuthor": "GrazePossum",
+        "modVersion": "3.0.0",
+        "modGroup": "Fun",
+        "modGitPath": "GrazePossum/Bedroom-Mod",
+        "modInfoUrl": "https://github.com/GrazePossum/Bedroom-Mod",
+        "modDownloadUrl": "https://github.com/GrazePossum/Bedroom-Mod/releases/download/v3/Bedroom_Mod.dll",
+        "modInstallLocation": "BepInEx/plugins",
+        "modDependencies": [
+            "Utilla"
+        ]
+    }
+]
