@@ -1,0 +1,40 @@
+name: Check for mod updates
+on: 
+  push:
+    branches:
+      - 'master'
+  schedule:
+  - cron: '*/20 * * * *'
+  workflow_dispatch:
+jobs:
+  test:
+    name: Check for mod updates
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+      with:
+        token: ${{ secrets.REPO_SCOPED_TOKEN }}
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v2
+      with:
+        node-version: '15'
+
+    - name: Check for updates
+      run: node checkUpdates.js
+      env:
+        SECRET: ${{ secrets.REPO_SCOPED_TOKEN }}
+
+    - name: Check for modified files
+      id: git-check
+      run: echo ::set-output name=modified::$([ -z "`git status --porcelain`" ] && echo "false" || echo "true")
+
+    - name: Commit Latest Release Version
+      if: steps.git-check.outputs.modified == 'true'
+      run: |
+        git config --global user.name 'PixelDevelops'
+        git config --global user.email 'pixelatedprbx@gmail.com'
+        git add GorillaTagModInfo.json
+        git commit -am "Found updated mods"
+        git push
